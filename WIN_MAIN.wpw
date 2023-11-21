@@ -1,0 +1,340 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_MAIN
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_MAIN
+ identifier : 0x23bc00f5025373a6
+ internal_properties : CAAAAAgAAADS+l7MgdX/gX8ZZrVEcqyts3So1CxrNaLNY4a9zlmdCVv3r8MYC3R41TOqTQb+E//yXzSmDFAuG+7t6rzSo8bhWWpLCqajm77/RIahfxCo99iBD5UiIMIYk1ZjbJgxx2rs3Un7fa7Q8KukN/7Q/UTfS0DwGpE1jXicvYZGkr9sMxSJRVeuwuET2CAi+XeHbNQbwmGUGwDvo8Csqg9Aa0qew3+SshizpRNAqd2R/d4ncipeKdZTv9icztBxWg/rYBZimbPRz1T3vXHeps6xvfgdNhS025YimNs0LSVJtjVPlvNv2dSr0qHLZsDVdbovniRxWRYnydYMQCMQzzJg6I3IEsPJ0bDq+24hNMYeiqIWbrmboUTiF2SInUbc9LdeQt7uwcMqP5d4Du9D8VQ6jljpr6r/sSLmU1CkmHlAxo8UQFQ8xEvTbRzmPwy7ZcqceGGByEM6Nasg2vAD5NF3IUMV7Rz+2tZ9ISPl3xyESh4bNxucqsqRvwjG1VMm93lt6/dyVXt3Lrzo/NT57AjM3Ub0qbXpwN69f3Uv1x0qtw8EGGZuXfkTVavkxh9srUOv1GTZnMQlhmVlwGUbSg/4dHQPeTaaV05GtZHLpk9+jVkW8rITUh0P+YSIHDVCrXhWr+9HkZtYtros1iiz9K1XsVayB9KLglzvn7yYCO0irql81Jc2+Je+eh4UoGY30FK7lKjTmtXu8QX4zoR2o4ruJP2KQGn2xJOGFbUEltwqhPZwEd+a0h+pOs9PGtNUx+8mQuCjG8tGYRQJLD71LnU=
+ properties :
+  width : 320
+  height : 430
+  heightMin : 480
+ controls :
+  -
+    name : STC_Report
+    identifier : 0x23bc00f5025473a6
+    internal_properties : CAAAAAgAAACce+v9m9pky+YFfEgCttkgqPgj4+cM0ehm1zp4SXaTN7QmpKVQEJbnqUb7PZ5eCeQB5CWK1ovmZdhqgPqk/r+pYLdCi0aLEG9JEi2hLu2QidYkNfGtKv0Y8ogib/mrmAPL5R7Uxz2F2NGQmoaS8QuWVr37dzanGjPIZ/WSdWpHYto20ddqONGag7y5aATlGj8EMtssG3CNFpvHzt4xUY+W5NhWWv7eigsosL7C3eFTLg3Wmg3IoPOreBbai1OLBw0qmRjaLzH2/Bi3q1le2rN7MNm1bT+7TNQgMEaC9DRgeTuUdZFn5TOWBEIQENC1vFjiJPiZWXKPn/UIm+WDmAP22qEakFWS6qEax4wD7ASUhIjOJFXOGCY2gQOC/namtffxMKH4N9C3cnQJnxlBvoNJD3wtE8eVfhyLaVkBASDQynGF
+    properties :
+     width : 310
+     height : 50
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Latitude
+    identifier : 0x23bc00f5025573a6
+    internal_properties : CAAAAAgAAADlRCpB6wmatquiGPq8MjQ/u19eTzAptgOv7kDmMPHkniTyzqCSKe9Fe6Qz/n0DnPb16sOBe42ruvZw29meDgYBWGPGrFfdhoh2UOqlv7m1GzXD7HSMtFbROhFhpMghJAw+8KpeUj71dLwBsKJ93yDG/spvHFKHztRiMK+gB0PTTeQtZDHJ9Oq8V/7RTMztQHn6XOPIRVhzDA/WbJWycRya1j8qxfhQPkhNlWxr9yx/3FqnIrSkCLl4rxGyPhlgk49ZPDLjccMqma8ckY64s/E/YSTz3FeHro3VeWynLIfWjSCNRQ5RNztr7XcWlcIWvEKNB1L+T0CLcliDya6FM6c83zpkgx0exNA1hFom2HtE83W9LMSAL6urjd+qUhclGP/i0Pe1RjFvYDmkgOHJ0dzRvEEkz7dJJO5Y4eQ5ZI06yl8=
+    properties :
+     y : 52
+     width : 269
+     height : 21
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Longitude
+    identifier : 0x23bc00f5025673a6
+    internal_properties : CAAAAAgAAABx8PPE7xSlx3q2n6TkRhaZWMXCgNKTyrA0va80yVZ9LhMSAuU7Cx/eQ+H180237c4YEAShO7k5T7SZJcrej/rHA/BB3j4XAR5jtgojsyVbJ3H4PU2PWhTenI0/F5o8+odIigVii1J+mBvlxTSC+j3PuP/ayUO9YuO505og96IKHtkMJj6GddPdWU41Uiwt1L80XIX6s0LbAiGlUeoY/C1lrK0J/KuArOvDx6EIiLdW0ltBNWufan0LNZGB/9bL4gFMYlkQqt+sbAHqsNnPhtiPHj7w2QCvLKYR6U/Cc8SvSxurBPlIbQdAlW3RgLmPmTqOo7V1srBVe2Ln6Cdi2JzcIoBDbMqIcGGTBrfbQ2p0tZAdUU/XbcMw9umpiH9UKHMXiMkloU7EPsDlOgUyPZ6aA3nPv3dFqrLnfuIv5kwVVfQe0g==
+    properties :
+     y : 75
+     width : 269
+     height : 32
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Speed
+    identifier : 0x23bc00f5025773a6
+    internal_properties : CAAAAAgAAAAlxyFyDBDBPQk+YL87xKNjHQA/qmpi7Bf6YwGSJ9qJOWyQz6yBRpP7AttqDQ6cCdyPzZKkdhjzip3XZZUK4neQMC45pjHqBSOIt4IOMQbEx7eNbfGba8necc0texzCNut+UKlNai4GU3gdrmXdd0AUoZzfc4LVEXYy0yHECEUgdCt+vgzVwENr+p+isVuAbfAp7ajp2q9rHhhdExDgyEGZiObx7ZnidY4/+CYqIA29qFI2QaB3WBzMMajyK7iJETcv82n7OlPVM8N5B5UVRB1FGat6rjAfR1evNE7ageq6WwostPBqFTgfB9QarhnZrlqD7vlyyqrc9BZoh6EWZsX4Py8hoxZs6+ajq5jXxP/sqOkEe+xZPMbUQaD/NO6SsqyNz7HRAhsTB0RU04eJZrvCir7rYeIroLo7SAtIlvE=
+    properties :
+     y : 123
+     width : 269
+     height : 21
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Altitude
+    identifier : 0x23bc00f5025873a6
+    internal_properties : CAAAAAgAAAAa6YpxPNCTj950u85cRpbzJJ+5/IADvsSEBsJNpseB/yCa6zJepHVDAAQ5TwyHhE21R1+SAURiRrWYpMndDsFcBMkwE+PuWIWw0ekGlkh28MaleO5geSu9/WxT4jTu9AdK+g2WnwT2ohUh5+wkrNOzrquGJU+DFnFbdyRsbXAoar/oHl7ai49rD2bvhvZnogMO3EW2OwRTjKMpU1ZyPucVCr54A5KT8f42LAQvr5J9dbzipDpOhdKeSGLw2umSVXDt9/Tzxfa975QXC6ieec9+J3/XgG868a3UBmopWm96FgTc64DHmCzX9AxwIRqu+BuRrkjix1v6HsEG99DLz6dpUbcKFZPHsaDSRXaU6ucEyVZrYZV9mvbuLcKcmdeIDK8zg7TWyTR+Rv9D5FdMh5SaXJICzubUg90yr/XqoY9ICgs1+Q==
+    properties :
+     y : 146
+     width : 269
+     height : 21
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Direction
+    identifier : 0x23bc00f5025973a6
+    internal_properties : CAAAAAgAAACx2txfSzurxP0uxXKdGa5Q2rVoAKlX3iFUVTSHaTOnzzdkGfIO557P+0FEjAmKZ4GTvsWKFWY7IywESS0cmP6SNwxkhcOpCn5ubtn5XwsXkVeKFZ4akX8SPmRHSYeOB3PxtmpFPUvkc18Kn3O4ZcFXbvMNb2fHOtY+dYDueb2neLXE2v5Be+2H50aYH5sAFwjz4y7DtHfqF2TSqu5O9n61nhCppbGQCEjyy3wdCo96CpdUC05viGsIjPNKtBh9tLfeS6VryIG26UwSUawRnszxBD3YlAZPKOHKHxzF9bzzAydirubivbszPtu0Hfv9F8b++hnyAB4j6lOlaeZICChcbkX7KfpmxqhMxKCYS3q2CM1/DkkkVbnXNxVsg8XemoOTGa0Y/axEwdXAYXb5HEXcgzVNjY/WnggYHAtu3a75XG49aCIW
+    properties :
+     y : 169
+     width : 269
+     height : 21
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_SPEED_VALIDITY
+    identifier : 0x23bc00f5025a73a6
+    internal_properties : CAAAAAgAAAAcLgX1xvqeT9WlDO/RVJwUx+Z9DJzi/ed7JBVWnZ1IMycDxal3FGQJRHjsWV4mERtU0QGYPP7WbWYk255ZeGfLik7l8INLwPhWDAGUKgfjUXWmdovTIFPXGrBxKenT8+fHrfEfic9PCyZ9MWuACpx6dcbwojKTFOFjwKGPYdpSuYcySS5d4mTz6VQQzT+/CqOFnrYnUn15zGb+c0QfY3TGjMaUg2Kl34YWvdwlPyu5qqHX2E6FdK8HDFJyx5NMBFAvLd23AxF3DQPdXaP4azZIbmXsDqOYTuf9Of25qjiedLn0kRiudSCc4z3ECsT93JxE6doYYTvc21grPkYSK5xNLZ5ifXhUeCOi0/8B8iyyX8RUvitW+XUVyxro/yVLmLhmIby7/Ma+tgTru2fd9b9V90iVgOK8Oqoaw6eZeW6/YFq1kSVvy/As0pmcQ1w+ZpUyDughFZoJp1turr0xZ1rjQOwWzs60Y4RfHtohwwMdC8OBj+EEWLTz0om8iUCaPbzNWfp+8kyqIX9AyqpXR/2kvIpf14U9nA9ZuNwU2Vj2XAL/mcWD/HI9B5PeG2tB8+27tLIJncI9mpFgg6+wakDee/9hYO6oKiUG0SAycQdIjBdqkLfHIzSXXc9HQ8ypUbTM8+wTuJSWnavfcRoVm2w5SuDWkjJpOg/db4sXQR9Y4bDm4Fo/1LQTo5ePqbO0bHjsJFVvIL2goyLwpOBGV1s+sN6RBAfEU6O3k//uxLOc7C4Y4ioTcQIzlqfCvD+ICSPpM8rPYjtz5iWCjA49/DnysnPaM0LzMYFglEjOIsFoehGemypxag8S
+    properties :
+     x : 271
+     y : 123
+     width : 21
+     height : 21
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_ALTITUDE_VALIDITY
+    identifier : 0x23bc00f5025b73a6
+    internal_properties : CAAAAAgAAACJOzICHb31LNSkDejSV50V2JtyCZv16HSOl24fVmSRzGzQqsbCb9PeezeRnuPd2jB5ehpBV4XRZu2zNE8yY5zU168GkeIqI1m1K25h5xJ8XqJ31+zanzq4Uf8yaioSYLkdYwmPk4Wd94rpdzW6NCCwHyC87gSZgi2jCFdp6xQ27wGEgda/nq47cfSWc/1FIll//GanUNcjjLYWLYbh/QCYohiMczQzVTJaGfrz1enB0J+V0IbHYpXPYAa0lZkaXAYJk9VXWYPJ9dOdl1UCbWZm7I88PvWmnAtpfZP/QAbSVj9eGSDkj7pMb3FeHLbPuObyWzYst+UGJ9Cb2OwIKRhHh8BaPcKCzp/+T5F7BK6y1domtqtMC+edB0YCuQ8FckzcT0hvrrSM5thXdfGPR7cbwWrdCLen85fxathoSP8iy+mE4lQ8/unxB1DFGsvf4RCB5bHo2s066Jqtb7ywCMWup1OvlfcT8CUezRvoKpBo/va8LKRBexGwWRAt2FezmA+Y7LfhkwunzioLD62C/KDPE2GQJk4kQZw00/nvjH0hZzG2QqwgR4/agp7rVo5KDqjOR288Yi1qc3Af1BbvA5e9ElbK90dnBwplwCFpmDCHU37ZAeYcjkG0WEo0HjcOCPMPrud4x5VF0JxA6OOu7qner40B59VOOUrG6Bq4sqpJ2vHvfyvSGevWZKiQqDI1bX+VTY6mfx4PEF89cdPxvHzd0f8y46Zl8sCQPCiF04TNo2fRq9H6StkIuxy3h0KV+hL2wN86dShm2y4bFYU09cZ9P4DvLkXwNIJhlUnNIcJpeW5z4FVEX/p/
+    properties :
+     x : 271
+     y : 146
+     width : 21
+     height : 21
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_DIRECTION_VALIDITY
+    identifier : 0x23bc00f5025c73a6
+    internal_properties : CAAAAAgAAADbacCwgy+r+qLS0/4AZf8zElG4V9mnNpJE1WRlzKpbAjY+0OSgyTG0Yc2HzCkLtG4rCMhf7S/nlGMh2p1YeWbKiU3k94BEwf974ZQfbZBuzJRFVepwscBuJy0AuFCoGqaW45E3C41dP7J5S01S/IhUIwCcziTRAv3DYBtx83wm283UeeaXNnajMXxiM31dmsVzHI6XeI/L7I4WIa7B3QDEDtgEc7yL7aoyAUZDZcF5HBsFYIZHYrXnmI6A9alqjGqFk4Wn4XvR3cut2xXiJWaiwI+EFqXerPMJVZ/HIGYiGovOOdDUx3KEdwFCRG4XSJoWE34MP12WX6ATDKTY6egrc5DKndp6Fg9OJ/3bxB7ywbZutjPkk38db+7+IU9Fwlk2lWiv6BLCmlgPw7tpoTstZxzRHFwKgDS81bVLe7D1dlRnbydRmcb+NbanOPllu2p/27vO+CdUtmhL+WIuzv9gvaHRk3UlwjPUg7VOwM5SwFxa1ipP1Wtmb5a3nj2x+pkGWpmPYQ1ZvABBybPoijJZMUcCRBR+i0raucslGrOLyZccPKImcflYKOSlnKRI8PqkpbF6oE/MORZ1vrRtmZFX8HR8VWVBwVgTrgtPtubBBVT3M8QyAPPKhigevNUkclXVtGH+Na9vhkKmWnEsdIvYnatLLZPQe8CM3nxmsJDjDKcdecFAm21aOv5mkqSjfw0DM2RQQVxBwg3rr507QnbbL10QhYBD1CI2En5vRTIfcVXHEXvMuEv6qYolEVRjNMgM3n2cl84AdbQRG7/uKwjD5S4dcAc2fkw/s1f/E/C7z8TJTue2LcxR
+    properties :
+     x : 271
+     y : 169
+     width : 21
+     height : 21
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_OK
+    identifier : 0x23bc00f5025d73a6
+    internal_properties : CAAAAAgAAABFHvm6msSr5JxbQXdTwC6rpv1Z92tPXe0AzfPP1xVR+Jf9S+bjBAYTeew1MFbw5nVucsfgV0aVo//5i21ah+G1cfKSZURJU85s/R+WVR22OJ83nDWiWXBEs1QK1tZC4akIsvbvD86OZ041U675Jj7NDAKXxdpNxk49mt33os7uc1MNUKS29A4bVLNX8a85iYBIBbenuNxEWLso38sWowBFioUxukGeMzApEyedf/y2sJCTRfweS4ziMUMKtT6oIi7hm7/oHicaKL2v+yMewk8RyC1Iw4kZ4r/LbSuELtHHYhytY+T1sqY+5i2UmSS99KHOalZuR93ft/5lfOzgEq6LouyAT7NZvb2HTYC7nTIpk10+Di4lFGRl+iqcVarqiml7DA1sjHIre/Z3kXjsMuHHkmVqXw88VTHfIY7joeR6fNvwW7swnTpuRg4l6fKwMSrDt6SWXG77UqzldgkNQ2FeF0pE1Ak2o4LimZxMBl7d/oyBbPPs19a4TU46cR1sSwM+YbbgTceqIa/Qbgj2XLLmMVSpS9PJEGjzRnRWwI+LuObdBqLAthz5ch1ONXsozMa+5hygrq8axlaG2YAanK/byWx/9sodihHICvumUVr/sALFvIlc02Rbn2g9AmpoappnolhXv5tvyPwti8szsGzlpmkxaZJ1vYZ+Z+uPkCFKezgN+516ZpitZkRTsopYLcRqYlPNIr4mcl2wDL2KJizuFmzbtkji6HiCKr5Fx7mBZ5s6bicVWVEp613aFrYCzfj7zfW0ZbUL0cut+/rLQAWDS7To8VoB
+    properties :
+     x : 6
+     y : -114
+     width : 21
+     height : 21
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_NOTOK
+    identifier : 0x23bc00f5025e73a6
+    internal_properties : CAAAAAgAAABiEAMX+Sf7N1o67bigJRuRwvzxk/VzNl08lRiUzRhbguG9Z8RA+nYksIjBqQm48Ts3r4mrVpj3aABZkxo8aijcMCTZAxPY5NGTR2h6M2VFSJBB/ChmoMrU7d4i/IXPCJgf09qQAX3hbzXqaO5mHknabAxw0yBZ3hKt7fwgB8vsNSdLnxq1POE1MpnlaTUZ3b9/6Jbcb8os2zcrIhW2e4ZiaBiObwo9lkfhs+z302TEjcGjCaxlEKdIPMRHcLmGaUV2BKF2zXKxXYqXB3FEpt+E+YAiGuLTdyerLdrSabAkzy/MaQn8laKMEerfkD2+zWZa09XAsGeFinUIKF+lw54oZaL59XRd4rLXi/byfgKQuUEpCYkmmLb8LrhC7x4hHaXXpWfJ6CGNRx3uATR0Aur2+eAIEkcgMRJhSwn/lOH4XopBLgzUJaLhE2oqtriDFLD7062uqZVP5oDscSfBhI4kIquNOzIh1Kh8ywWHKcZSi2UwUFyHhOkZ2ey0AII2AMZr6kxV58TxZzH+6MP/Cpjk1ZtXzs5jaNQD0gsmcbIuEPLxgkCl84OUKGUaU//0c/vt25ApL8AZzWdDdmCfzKIfJDt0f4AuCnuILw/CS0/3L1di+W/gbT5uCkA8rC7sIJ048Bm3WURv/w5pOLoxUBg+1J7Z+NANwDBOtV297F0NYZTypzFnW7GcSpvD3SPlWnjF153xJn4tfYSvUXaavLTVH9Sqw8MZNTuh/pO6KszLrOQN0aAbhat7KZtY7YxVwvwN/8p7tunfETz2a7y5IJHe6fQ6xdhUJ7lqBCBh79Q=
+    properties :
+     x : 6
+     y : -91
+     width : 21
+     height : 21
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : STC_Last_update
+    identifier : 0x23bc00f5025f73a6
+    internal_properties : CAAAAAgAAADEfXGtTPJOEJewOKhzSroB0Ip/QJl5EQTYCt4ZwyKSgqKkV8519qzAhk6tWhJ8fj8Ju77FtPnSrRNuwojw74Ms23ydD9YiuoQtnEh6Ks/3cApTIQE5GWbzLEEnzroAaY/6PfaZXA0SzhiFIKPz1lwaSAN9LsZ9fsbdrUjr9/+hdZEQEKJxDFCVnNeAf5R6UC49hUr9ZWMerOsTckYw6mQ19tFDHQ+nmOS38dOiiyWxYOWWZHh4H04gVxjxJaSCNzzXsdA7xxzy+2W6OarIMN8KUD/scgMOi1rDN5OsT/jxRGZ0AyMlVKFsRQXZH3nIa5OtcaFC2i0dbcPqGbwXc4Bh/MRo1CI5zuiaxwFlxZx9sNQgI1Y6PHtNB506ZaumZnF9tUY3ZeQgUBNtO24qTe+TGRYGLNnGMdiY0pAdFBNRgsxfBMi9plDjEk553l3JMw==
+    properties :
+     y : 245
+     width : 310
+     height : 68
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x2af05ae62691eeec
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAACDtCVHkmZc1K4N4zM6Pt5RZ+nA38t/vxRqSNAD/FVJ882W91V6rAuvHUHGVcD5Y07Q/DCLCJptaQXMlttOgHeu7/E6bCNKRtqKPtbktZr2ef+g4NFjwEEkCUrC
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABfGQ6F0ZOdIqvAy64Ai3iJZ7EkcMgR45+rFpcs9NE3j5XgxtTzPAGhHP9P0PzK3S67DkJ8IFj8ztyTwteOUiA642v+DWtGyqoCxLx2hATK0PFDoqXoPWhp7tafNj0rmQoLL6l7WCz6PjCCo/g=
+     code : |1+
+      
+      gnCurrentStatus is int
+      
+      // Initialize the GPS
+      // Pass via the relevant provider (satellite or triangulation)
+      // We want the altitude, the speed at high precision while requesting an average quantity of battery)
+      GPSInitParameter(gpsAuto,gpsAltitude+gpsDirection+gpsSpeed+gpsPrecisionHigh+gpsEnergyMedium)
+      
+      // Is the GPS enabled?
+      IF GPSStatus() <> gpsEnabled THEN
+      	Error("The GPS will not operate.","Enable it to access this application.")
+      ELSE
+      	_ChangeGPSStatus(GPSStatus())
+      END
+      
+      
+      // Branch a callback procedure to be called when the status of the GPS changes
+      GPSStatus(_ChangeGPSStatus)
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      // Ends the use of the GPS functions
+      GPSEnd()
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     code : |1-
+      
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+  procedures :
+   -
+     name : _ChangeGPSStatus
+     procedure_id : 1422012634612986790
+     type_code : 14
+     code : |1+
+      // Summary: <specify the action of the procedure>
+      // Syntax:
+      //_ChangeGPSStatus (<nStatus>)
+      //
+      // Parameters:
+      // 	nStatus: <specify the role of nStatus>
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //
+      Procedure _ChangeGPSStatus(nStatus)
+      
+      // Ignores the call if the status was not modified
+      IF gnCurrentStatus = nStatus THEN
+      	RETURN
+      END
+      
+      // Stores the current status
+      gnCurrentStatus = nStatus
+      
+      
+      SWITCH nStatus
+      	CASE gpsEnabled // the provider was enabled by the user.
+      		STC_Report = "GPS Enabled"
+      		// Asks to follow the move with a maximum time between two calls to 
+      		GPSFollowMovement(_GetPosition,1000)
+      	CASE gpsDisabled // the provider was disabled by the user.
+      		STC_Report = "GPS Disabled"
+      	CASE gpsOffService // the provider is off service.
+      		STC_Report = "GPS off service"
+      	CASE gpsUnavailable // the provider is temporarily unavailable.
+      		STC_Report = "GPS Unavailable"
+      	CASE gpsAvailable // the provider is available.
+      		STC_Report = "GPS available"
+      		// Asks to follow the move with a maximum time between two calls to 
+      		GPSFollowMovement(_GetPosition,1000)
+      END
+     type : 458752
+   -
+     name : _GetPosition
+     procedure_id : 1422012634613052326
+     type_code : 14
+     code : |1-
+      // Summary: This procedure is automatically called by the WLanguage function named GPSFollowMovement to notify the new position
+      // Syntax:
+      //_GetPosition (<MyPosition> is geoPosition)
+      //
+      // Parameters:
+      //	MyPosition (geoPosition): New position given by the GPS
+      
+      Procedure _GetPosition(MyPosition is a geoPosition)
+      
+      // Update the information about the position
+      // Latitude and longitude
+      STC_Latitude = StringBuild("Latitude: %1",MyPosition..Latitude)
+      STC_Longitude = StringBuild("Longitude: %1",MyPosition..Longitude)
+      
+      // Speed
+      IF MyPosition..SpeedValid THEN
+      	STC_Speed	= StringBuild("Speed: %1 m/s",MyPosition..Speed)
+      	IMG_SPEED_VALIDITY = IMG_OK
+      ELSE
+      	STC_Speed	= "Speed: N/A"
+      	IMG_SPEED_VALIDITY = IMG_NOTOK
+      END
+      
+      // Altitude
+      IF MyPosition..AltitudeValid THEN
+      	STC_Altitude	= StringBuild("Altitude: %1 m",MyPosition..Altitude)
+      	IMG_ALTITUDE_VALIDITY = IMG_OK
+      ELSE
+      	STC_Altitude	= "Altitude: N/A"
+      	IMG_ALTITUDE_VALIDITY = IMG_NOTOK
+      END
+      
+      // Direction
+      IF MyPosition..DirectionValid THEN
+      	STC_Direction	= StringBuild("Direction: %1 ° E",MyPosition..Direction)
+      	IMG_DIRECTION_VALIDITY = IMG_OK
+      ELSE
+      	STC_Direction	= "Direction: N/A"
+      	IMG_DIRECTION_VALIDITY = IMG_NOTOK
+      END
+      
+      STC_Last_update = StringBuild("Last update on %1 at %2.",DateToString(MyPosition.MeasurementDate..Date),TimeToString(MyPosition.MeasurementDate..Time))
+      STC_Last_update..Visible = True
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAADeQcze1Ixqfwn6yOfjwsQ7IKxuiqMzbTygTLeVXFH8DB0WqXgSKvkzRoO0/Z27dfrh8D+BLYmMenjdtZezotw6hJf2mE4Gv6OctA==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x1006a22f3665b4dc
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
